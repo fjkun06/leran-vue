@@ -48,7 +48,7 @@ const myObject = reactive({
   publishedAt: '2016-04-10'
 })
 
-alert("hello world")
+// alert("hello world")
 </script>
 
 <template>
